@@ -15,6 +15,10 @@ npm run docs:dev
 npm run docs:build
 ```
 
+## Essay formatting
+
+Layout rules for all essays: [`排版策略.md`](./排版策略.md)
+
 ## Essay footer
 
 All essays share one author/license block:

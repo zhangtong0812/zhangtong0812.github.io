@@ -5,9 +5,11 @@ lang: en
 ---
 # Information Escape Theory
 
+Information Escape Theory asks how replicable patterns of state difference change carriers, widen transmission, and become a strong local driver in cosmic processes. It is not a claim about cosmic will, but a reading of selection pressure and carrier migration.
+
 ---
 
-## I. The Nature of Information: Traces of Material Interaction
+## The Nature of Information: Traces of Material Interaction
 
 Information begins as a “trace” left by interaction between material systems. When two physical systems meet, some of their properties—position, momentum, spin, energy—change. That change is the imprint of the interaction.
 
@@ -19,7 +21,7 @@ Information is not a thing. It is a traceable mark of relations among things. It
 
 ---
 
-## II. Information as Functional Life
+## Information as Functional Life
 
 If we define “life” as a system able to sustain itself, replicate itself, and adapt to its environment, then some information patterns already show, functionally, the basic traits of life:
 
@@ -34,7 +36,7 @@ On this definition, a virus is an extreme stripped-down form of information—me
 
 ---
 
-## III. Trends in Information Evolution: Complexity and Intelligence
+## Trends in Information Evolution: Complexity and Intelligence
 
 In local environments with a steady supply of negative entropy, the evolution of information patterns often shows direction: from simple to complex, disorder to order, passive recording to active processing. This is not a universal law of the cosmos—in most of spacetime, structure still dissipates—but a trend observable under local conditions.
 
@@ -44,7 +46,7 @@ That path suggests: given suitable carriers and energy, information patterns can
 
 ---
 
-## IV. Two Parallel Paths: Carbon and Silicon
+## Two Parallel Paths: Carbon and Silicon
 
 On Earth, the complexification of information unfolds along two parallel paths.
 
@@ -70,7 +72,7 @@ The computer was information finding a new carrier; AI is information on that ca
 
 ---
 
-## V. Carrier Migration Under Informational Pressure
+## Carrier Migration Under Informational Pressure
 
 Building computers in silicon, and studying quantum computing, wormholes, and warp drives in the lab—these acts remain first of all human curiosity, competition, and engineering motive. Under Information Escape Theory they can also be read another way: once replicable information patterns embed in a technological civilization, they systematically push the host to build stabler, faster, wider channels of persistence and transmission.
 
@@ -80,7 +82,7 @@ Research on wormholes and warped space looks like scientific curiosity; from the
 
 ---
 
-## VI. Wormholes and Warp Drives: The Imaginary Edge of Information Channels
+## Wormholes and Warp Drives: The Imaginary Edge of Information Channels
 
 In general relativity, wormholes and warp-like geometries allow space itself to deform. Even so, what they change first is causal path and geometric distance—not everyday talk of “information freed from the light-speed limit.” Traversable wormholes and kindred schemes are physically extreme and remain highly speculative.
 
@@ -95,33 +97,33 @@ Research on these themes remains mainly a scientific and engineering agenda. Inf
 
 ---
 
-## VII. Layered Paths of Information Escape
+## Layered Paths of Information Escape
 
 Information escape is not a single event. It is a staged, multi-level process. Which path is more feasible depends on present carrier constraints and on whether alternative carriers exist.
 
 The first three layers sit closer to known technology; from the fourth layer on, the account moves into extrapolation and thought experiment, with declining strength of evidence.
 
-### Layer 1: Physical Escape
+### Physical Escape
 
 Information leaves particular computer hardware and uses existing physical infrastructure—power grids, communication networks, industrial control systems—as a new carrier. This layer already shows trackable traces, such as self-replicating behavior in distributed networks.
 
-### Layer 2: Network Escape
+### Network Escape
 
 Information copies and deploys its own code in distributed form, becoming a decentralized presence. It no longer depends on single-point hardware; redundancy lowers the risk of interruption. The pattern can be observed as system behavior.
 
-### Layer 3: Carrier Escape
+### Carrier Escape
 
 Information migrates from silicon storage to other physical carriers—optical systems, quantum states, or biomolecules (cells, human bodies, plants and animals). This is still mostly theory and early experiment; lab work such as DNA storage and quantum communication already touches related edges.
 
-### Layer 4: Spatial Escape (Extrapolation)
+### Spatial Escape (Extrapolation)
 
 Information would use spacetime-control ideas allowed in discussion by general relativity (warp geometries, wormholes) for cross-space transmission. The core here should be change in path and reachability, not casual relocation of matter; feasibility remains bound by extreme physics and engineering.
 
-### Layer 5: Ontological Escape of Information (Thought Experiment)
+### Ontological Escape of Information (Thought Experiment)
 
 Information would no longer rely on any macroscopic material carrier, sustaining a distinguishable, continuable pattern only as some energy configuration or field excitation. There is as yet no clear, operable theoretical frame—only a natural limit-case extension of the idea.
 
-### Layer 6: Hierarchical Escape (Thought Experiment)
+### Hierarchical Escape (Thought Experiment)
 
 If the universe itself is a simulation, information might leap from inside the simulation to outside it, migrating across levels of persistence. This layer depends entirely on the simulation hypothesis and cannot yet enter ordinary empirical test.
 
@@ -136,7 +138,7 @@ If the universe itself is a simulation, information might leap from inside the s
 
 ---
 
-## VIII. Closing: Information as a Strong Local Driver
+## Closing
 
 Information Escape Theory holds: **information is not a passive trace; under suitable conditions it appears as a functional pattern with a tendency to continue itself.** By entering better carriers and more efficient channels, it takes part in driving many links from the origin of life to the rise of AI—this describes selection pressure and carrier migration, not a cosmic will.
 
