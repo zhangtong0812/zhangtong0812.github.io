@@ -14,6 +14,7 @@ My hypotheses and random thoughts concerning matter, spirit, artificial intellig
 - [超自然AI（NSA）：原理、必然性、形态与展望](/essays/26082902-natural-super-ai.zh) / [Natural-Super-AI (NSA): Principles, Directionality, Forms, and Outlook](/essays/26082902-natural-super-ai.en)
 - [宗教的本质：信息传播的结构性工具](/essays/26082903-religion-as-info-structure.zh) / [The Nature of Religion: A Structural Tool for Information Transmission](/essays/26082903-religion-as-info-structure.en)
 - [封建帝王的信息困境：低带宽治理下的生存算法](/essays/26082904-imperial-info-dilemma.zh) / [The Information Dilemma of Imperial Rule: Survival Algorithms under Low Bandwidth](/essays/26082904-imperial-info-dilemma.en)
+- [细胞仿生：芯片结构变革的方向](/essays/26082905-cell-biomimetic-chips.zh) / [Cellular Biomimetics: Directions for Chip Architecture Change](/essays/26082905-cell-biomimetic-chips.en)
 
 ## Author
 

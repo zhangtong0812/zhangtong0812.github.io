@@ -70,6 +70,14 @@ export default defineConfig({
             {
               text: 'The Information Dilemma of Imperial Rule: Survival Algorithms under Low Bandwidth',
               link: '/essays/26082904-imperial-info-dilemma.en'
+            },
+            {
+              text: '细胞仿生：芯片结构变革的方向',
+              link: '/essays/26082905-cell-biomimetic-chips.zh'
+            },
+            {
+              text: 'Cellular Biomimetics: Directions for Chip Architecture Change',
+              link: '/essays/26082905-cell-biomimetic-chips.en'
             }
           ]
         }
