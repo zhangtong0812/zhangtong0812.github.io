@@ -99,6 +99,6 @@ AI 产出的文字、图像、创意内容，看似极具新意，本质都是�
 
 技术可以拓展人类心智的边界，却无法规避意识重构带来的未知代价——人机共生的未来，是极致的进化，也是极致的危险。
 
-## License
-This work is licensed under a Creative Commons Attribution 4.0 International License.
-You must give appropriate credit to the original author.
+---
+
+<!--@include: ../snippets/_author-license.md-->

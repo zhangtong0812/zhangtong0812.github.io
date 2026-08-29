@@ -15,4 +15,11 @@ npm run docs:dev
 npm run docs:build
 ```
 
-Source essays also live in [natural-super-ai](https://github.com/zhangtong0812/natural-super-ai).
+## Essay footer
+
+All essays share one author/license block:
+
+- Source of truth: `docs/snippets/_author-license.md`
+- Each essay ends with: `<!--@include: ../snippets/_author-license.md-->`
+
+Edit the snippet once to update every article.

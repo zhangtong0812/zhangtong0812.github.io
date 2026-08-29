@@ -52,15 +52,6 @@ lang: zh-CN
 
 所谓意识永生，在很大程度上，是人类用以对抗死亡焦虑、缓解生命有限感的精神寄托。肉体或许可以依靠工程技术持续更新；但动态、随机、持续演化的主观意识，受生物本质与时间漂移约束，很难实现真正的永恒存续。
 
-## Author
+---
 
-**Zhang Tong**  
-Jinan City, Shandong Province, P.R.China  
-
-Email: `zhangtong0812[at]gmail.com`  
-Academic discussion and criticism are welcome.
-
-## License
-
-This work is licensed under a **Creative Commons Attribution 4.0 International License**.  
-You are free to share and adapt the material for any purpose, provided that appropriate credit is given to the original author.
+<!--@include: ../snippets/_author-license.md-->
