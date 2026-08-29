@@ -48,7 +48,7 @@ export default defineConfig({
               link: '/essays/26082901-info-escape.en'
             },
             {
-              text: 'Natural-Super-AI（NSA）：原理、必然性、形态与展望',
+              text: '超自然AI（NSA）：原理、必然性、形态与展望',
               link: '/essays/26082902-natural-super-ai.zh'
             },
             {
@@ -62,6 +62,14 @@ export default defineConfig({
             {
               text: 'The Nature of Religion: A Structural Tool for Information Transmission',
               link: '/essays/26082903-religion-as-info-structure.en'
+            },
+            {
+              text: '封建帝王的信息困境：低带宽治理下的生存算法',
+              link: '/essays/26082904-imperial-info-dilemma.zh'
+            },
+            {
+              text: 'The Information Dilemma of Imperial Rule: Survival Algorithms under Low Bandwidth',
+              link: '/essays/26082904-imperial-info-dilemma.en'
             }
           ]
         }
