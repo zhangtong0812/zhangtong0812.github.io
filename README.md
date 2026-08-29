@@ -15,19 +15,6 @@ npm run docs:dev
 npm run docs:build
 ```
 
-## Analytics (GoatCounter)
-
-Page views are tracked with [GoatCounter](https://www.goatcounter.com/) (no cookies).
-
-**One-time setup (site owner):**
-
-1. Sign up at https://www.goatcounter.com/signup  
-2. Create a site whose code is exactly `zhangtong0812`  
-   (dashboard will be https://zhangtong0812.goatcounter.com/)  
-3. Allow domain `zhangtong0812.github.io` if asked  
-
-After deploy, open the GoatCounter dashboard to see per-path views (each essay URL).
-
 ## Essay comments (Utterances)
 
 Essay pages load a public comment box via [Utterances](https://utteranc.es/) (GitHub Issues).
