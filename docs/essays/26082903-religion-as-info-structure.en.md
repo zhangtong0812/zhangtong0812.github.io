@@ -5,11 +5,11 @@ lang: en
 ---
 # The Nature of Religion: A Structural Tool for Information Transmission
 
-Religion can be read as a **structural transmission apparatus** iterated in carbon-based societies to help particular information patterns persist across people and generations. Functional accounts of religion and meme-like cultural copying are not new; this essay’s contribution is not to declare “religion is only a scam,” but to cast the observable **symbol–ritual–authority–community** suite as a copying protocol. It does not settle theological truth-claims. It asks how such apparatuses copy, internalize, and adapt.
+Religion can be read as a **structural transmission apparatus** iterated in carbon-based societies to help particular information patterns persist across people and generations. Functional accounts and meme-like cultural copying are not new. What follows casts the observable **symbol–ritual–authority–community** suite as a copying protocol: how such apparatuses copy, internalize, and adapt. Theological truth-claims are not settled here.
 
-Religion’s core contents—narratives of cosmos, life, morals, and the afterlife—are first of all information patterns. That they can span millennia and vast populations need not wait on proof that they “match objective fact.” The nearer question is that they are packed into a highly effective transmission structure. Together the four systems stabilize intergenerational transfer and let the pattern reshape itself across cultures.
+Religion’s core contents—narratives of cosmos, life, morals, and the afterlife—are first of all information patterns. That they can span millennia and vast populations need not wait on proof that they “match objective fact.” The nearer question is that they are packed into a highly effective transmission structure.
 
-Religion is also often coupled to power, resources, and group boundaries. Transmission structure is frequently mobilization and order structure as well. This essay focuses on the informational side without denying that coupling.
+Religion is also often coupled to power, resources, and group boundaries. Transmission structure is frequently mobilization and order structure as well. Below, the informational side holds the focus.
 
 ---
 
@@ -58,9 +58,9 @@ Religion is then no longer only “information heard,” but “information embo
 
 ## Boundaries: What Counts as Religion, and What Only Resembles It
 
-If every high-adhesion narrative is “religion,” the term blurs. A narrower working definition here: an apparatus that combines a fairly complete symbol–ritual–authority–community suite and takes cosmic–moral–life-and-death meaning as its long-term copy object.
+If every high-adhesion narrative is “religion,” the term blurs. A narrower working definition: an apparatus that combines a fairly complete symbol–ritual–authority–community suite and takes cosmic–moral–life-and-death meaning as its long-term copy object.
 
-National myths, brand cults, and fan communities may borrow some modules without the same closed loop of death-and-destiny narrative and intergenerational authority. Conversely, some ascetic and esoteric traditions **deliberately limit** the spread surface—a trade-off between fidelity and diffusion. That does not refute “structures that remain often favor persistence”; it shows that persistence sometimes means high fidelity in a small group, not global coverage.
+National myths, brand cults, and fan communities may borrow some modules without the same closed loop of death-and-destiny narrative and intergenerational authority. Some ascetic and esoteric traditions **deliberately limit** the spread surface—a trade-off between fidelity and diffusion: persistence sometimes means high fidelity in a small group, not global coverage.
 
 ---
 
@@ -68,21 +68,12 @@ National myths, brand cults, and fan communities may borrow some modules without
 
 Religion shows how information, among carbon host clusters, can use personified foci, ritual rhythm, and community redundancy to persist across centuries and adapt across cultures (as in Buddhism’s differing forms in India, China, and Japan).
 
-Modern transmission tech—writing, print, broadcast, the internet, AI—keeps taking on storage and broadcast roles religion once dominated more alone. History suggests new media rarely “kill” religion; they more often change its form (print reformations, televised preaching, online congregations). A safer expectation:
+Modern transmission tech—writing, print, broadcast, the internet, AI—keeps taking on storage and broadcast roles religion once dominated more alone. History suggests new media rarely “kill” religion; they more often change its form (print reformations, televised preaching, online congregations).
 
 - **Parts of storage and broadcast migrate** to higher-bandwidth channels;
 - **Affective binding, belonging, and meaning around life and death** need not be auto-replaced by new tech; they may residualize, morph, or recombine with it.
 
-So religion should not be written as “obsolete software to be fully uninstalled.” More steadily: as early transmission engineering for long persistence, some of its interfaces are being rewritten, not the whole package erased.
-
----
-
-## Objections and Limits
-
-- **“Old functionalism in new bottles”:** Overlap is granted; this essay stresses a checkable four-part protocol and copying conditions, not a full sociology of religion.
-- **“Ascetic limits on spread refute you”:** They do not; they retarget persistence from global coverage to high fidelity in a small group—still a persistence strategy.
-- **“This denies gods”:** It does not adjudicate; it analyzes person-nodes in transmission.
-- **“Technology will abolish religion”:** Evidence better supports reorganization and functional split than simple abolition.
+Religion should not be written as “obsolete software to be fully uninstalled.” It is early transmission engineering for long persistence; some interfaces are being rewritten; the whole package is far from gone.
 
 ---
 
@@ -90,7 +81,7 @@ So religion should not be written as “obsolete software to be fully uninstalle
 
 Religion need not first be treated as dogma one must believe. It can be treated as **transmission engineering iterated so that information patterns could persist long in human networks when modern high-bandwidth tech was absent.**
 
-The core object of analysis is not “whether the supernatural exists,” but a set of long-selected copying strategies: personified foci, ritual refresh, canonical authority, community redundancy. To understand it is to see more clearly how human emotion and community are organized into structures that can copy across generations.
+The core object of analysis is not “whether the supernatural exists,” but a set of long-selected copying strategies: personified foci, ritual refresh, canonical authority, community redundancy. To see it clearly is to see how human emotion and community are organized into structures that can copy across generations.
 
 ---
 

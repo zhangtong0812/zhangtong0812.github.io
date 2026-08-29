@@ -9,7 +9,7 @@ A cell can be read as a scheme of high-fidelity maintenance and signal integrati
 
 Mainstream chips still largely follow von Neumann-style separation of memory and compute: data shuttles between storage and arithmetic units, so energy and latency often stick in moving bits rather than in the arithmetic itself. Cells show another organization: information-related processes, energy conversion, and signal integration couple more tightly in physical space and constrain one another functionally.
 
-Taking cell structure as inspiration—not as a blueprint to copy one-to-one—can mark several relatively clear directions for next-generation chip architecture.
+Taking cell structure as inspiration—not as a blueprint to copy one-to-one—can mark several directions for next-generation chip architecture.
 
 ---
 
@@ -25,7 +25,7 @@ Electron transport and ATP synthase on the inner mitochondrial membrane turn che
 
 ### DNA and Proteins: Nearby Storage and Execution
 
-Genetic information resides mainly in DNA (and RNA); much execution is done by proteins. This is not in-memory compute in the chip sense, yet transcription, translation, and metabolism occur nearby in the same cell; rates of reading and synthesis are jointly constrained by energy supply, substrates, and spatial position. The inspiration: **shortening the physical distance from “fetch” to “execute” often lowers movement cost**—an analogy, **not a claim that DNA equals SRAM, nor an isomorphic mapping.**
+Genetic information resides mainly in DNA (and RNA); much execution is done by proteins. This is not in-memory compute in the chip sense, yet transcription, translation, and metabolism occur nearby in the same cell; rates of reading and synthesis are jointly constrained by energy supply, substrates, and spatial position. The inspiration: **shortening the physical distance from “fetch” to “execute” often lowers movement cost**—an analogy, not a claim that DNA equals SRAM.
 
 ### Cytoskeleton: Dynamic Support and Pathways
 
@@ -39,14 +39,14 @@ Damaged molecules are degraded and replaced; abnormal structures repaired or cle
 
 ## Four Directions for Chip Architecture Change
 
-The directions below roughly track the features above: features are sources of inspiration; directions are engineering options. Maturity varies; none is a finished end-state already “solved.” Maturity tags below are coarse: **lab / early product or small deployment / vision**.
+The directions below roughly track the features above. Maturity varies; coarse tags: **lab / early product or small deployment / vision**.
 
 ### From Memory–Compute Split to Compute-in/near-Memory
 
 Inspiration: cut long-haul data movement; bring compute nearer to where data live.  
 **Maturity:** mostly lab; some near-memory / specialized acceleration already in early product form.
 
-The core idea is to operate near or in place at the physical locus of stored data, lowering energy and latency from shuttling. Memristors, phase-change memory, and kindred devices are candidate paths—but precision, endurance, yield, algorithms, and toolchains remain open engineering problems.
+The core idea is to operate near or in place at the physical locus of stored data, lowering energy and latency from shuttling. Memristors, phase-change memory, and kindred devices are candidate paths—but precision, endurance, yield, algorithms, and toolchains remain open engineering problems. They have not “solved” the von Neumann bottleneck.
 
 ### From Single Digital Logic to Multimodal Signals
 
@@ -75,22 +75,11 @@ Online substitution, automatic bypass, real-time calibration can extend life and
 
 Cellular biomimetics is not simple copying of cell morphology. It is replaying, on silicon and other engineered materials, several strategies already filtered by nature: bring storage, processing, and energy management spatially nearer in pursuit of higher efficiency and density.
 
-Possible implications include:
-
-- **Easing the von Neumann data-movement bottleneck**—magnitude depends on workload and process, not a uniform orders-of-magnitude promise.
+- **Easing the von Neumann data-movement bottleneck**—magnitude depends on workload and process.
 - **Raising local autonomy and fault tolerance**—an engineering reliability issue.
 - **Lowering joules per operation on comparable tasks.** A ~20 W brain and a megawatt training farm are not directly comparable. **Efficiency gains are not biological intelligence.**
 
-The aim is not a “silicon cell,” but a system that both borrows cellular strategies and tries to exceed carbon’s physical limits on proximity of memory and compute, dynamic remapping, and fault-tolerant maintenance.
-
----
-
-## Objections and Limits
-
-- **“Biomimetics yields biological intelligence”:** Not automatically; this essay is about architecture and efficiency hints, not sufficient conditions for consciousness or general intelligence.
-- **“Memristors already solved the von Neumann bottleneck”:** Not yet; devices and system integration still have large gaps.
-- **“Cells prove compute-in-memory is globally optimal”:** Cells are a feasible solution under carbon-chemical constraints, not a global optimum proof for every material and workload.
-- **“Self-repairing chips need no externals”:** Self-repair lowers ops burden; it does not cancel power, cooling, or material wear.
+A cell is a feasible solution under carbon-chemical constraints, not a global optimum proof for every material and workload. The aim is not a “silicon cell,” but a system that both borrows cellular strategies and tries to exceed carbon’s physical limits on proximity of memory and compute, dynamic remapping, and fault-tolerant maintenance.
 
 ---
 

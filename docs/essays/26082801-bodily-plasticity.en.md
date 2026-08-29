@@ -7,8 +7,6 @@ lang: en
 
 Consciousness is not a solid object stored somewhere in the skull. It arises from the complex traffic of electrical signals among neurons—a process that keeps running and changing. The body, by contrast, is matter: cells and tissue, a physical vehicle. The two are different in kind.
 
-**This essay does not discuss:** whether a soul is an independent entity; whether “mind uploading” will eventually be engineered; or clinical criteria of death. It only asks whether bodily plasticity and subjective consciousness are the same thing over long timescales.
-
 As hardware, the body can be repaired and renewed—tissue restored, organs replaced, materials reconstructed. With future engineering, extending bodily life looks plausible in principle—**engineering room in principle is not achievement today.** Consciousness does not sit still. Carried by ongoing neural activity, it keeps evolving and resists any fixed, freeze-frame form. Even if technology lengthened the life of the body, neural signals would still tend to drift over long spans of time. Memory, cognition, and self-understanding would keep being rewritten. Mountains and rivers look stable within a human lifetime; across geological ages they change. Technology may prolong the body. Whether a singular subjective self can enjoy true immortality is far less clear.
 
 ---
@@ -39,22 +37,16 @@ Consciousness is largely a flowing process built after birth. Genes are a relati
 
 On this view, true immortality of consciousness faces at least two serious barriers.
 
-**First:** even if we could migrate a mind into a new body, we would still struggle to reproduce—fully and faithfully—the real, random, dynamic electrical life of the original neurons. Without that native randomness and motion, the result looks more like a static imitation than the original self.
+**First:** even if we could migrate a mind into a new body, we would still struggle to reproduce—fully and faithfully—the real, random, dynamic electrical life of the original neurons. Without that native randomness and motion, the result looks more like a static imitation than the original self. A high-fidelity backup is at most a runnable imitation or branch; if the continuum of experience breaks, the label “still me” does not hold automatically.
 
-**Second:** a body may last a long time under technical care, but the brain is biological media, not a silicon chip that stores clean zeros and ones. There is no perfectly stable vault for memory. What we remember and how we know ourselves rest on fragile synaptic states that wear, fade, and rebuild. Keep a body alive for millions of years, and ancient memories will blur; older patterns of thought and self-understanding may be heavily rewritten—when neither the person nor observers can still claim the “then-self” and “now-self” as one continuous subject, that is a **phased death of consciousness** (operationally: an irreversible break in the coherence of self-narrative and critical memory over long timescales).
+**Second:** a body may last a long time under technical care, but the brain is biological media, not a silicon chip that stores clean zeros and ones. There is no perfectly stable vault for memory. What we remember and how we know ourselves rest on fragile synaptic states that wear, fade, and rebuild. Keep a body alive for millions of years, and ancient memories will blur; older patterns of thought and self-understanding may be heavily rewritten—when neither the person nor observers can still claim the “then-self” and “now-self” as one continuous subject, that is a **phased death of consciousness**.
+
+Under ordinary metabolism, enough overlapping memory and narrative can sustain practical identity claims; that is not the same as a one-shot move onto a wholly new dynamic base, or narrative rewritten over geological spans.
 
 In short:
 
 1. Even after migration, **the brain’s real random electrical signals are hard to replicate fully; a copy is not the original self**.
 2. The brain is not silicon and has no stable 0–1 storage. Over very long scales, memory weathers, and the old self may undergo **a phased death of consciousness**.
-
----
-
-## Objections and Limits
-
-- **“A backup is immortality”:** A high-fidelity backup is at most a runnable imitation or branch; if the continuum of experience breaks, the label “still me” does not hold automatically.
-- **“Gradual cell replacement is still the same person”:** Under ordinary metabolism, enough overlapping memory and narrative can sustain practical identity claims; that is not the same argument as a one-shot move onto a wholly new dynamic base, or narrative rewritten over geological spans.
-- **“A continuous self is already an illusion”:** Under a strong anti-essentialist stance the immortality question dissolves; this essay assumes people still care about a coherently claimable subjective self, and discusses its difficulty of forever under that default.
 
 ---
 
