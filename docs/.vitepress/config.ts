@@ -7,6 +7,18 @@ export default defineConfig({
   lang: 'zh-CN',
   cleanUrls: true,
   lastUpdated: true,
+  // GoatCounter: create free site at https://www.goatcounter.com/
+  // Code must match: zhangtong0812 → https://zhangtong0812.goatcounter.com/
+  head: [
+    [
+      'script',
+      {
+        'data-goatcounter': 'https://zhangtong0812.goatcounter.com/count',
+        async: '',
+        src: 'https://gc.zgo.at/count.js'
+      }
+    ]
+  ],
   themeConfig: {
     siteTitle: 'Natural-Super-AI',
     nav: [
