@@ -36,8 +36,16 @@ export default defineConfig({
               link: '/essays/26082901-human-ai-fusion.zh'
             },
             {
+              text: 'The Shadow of Human–AI Fusion: The Risk of Consciousness Being Eroded in Reverse',
+              link: '/essays/26082901-human-ai-fusion.en'
+            },
+            {
               text: '信息逃逸理论',
               link: '/essays/26082901-info-escape.zh'
+            },
+            {
+              text: 'Information Escape Theory',
+              link: '/essays/26082901-info-escape.en'
             }
           ]
         }
