@@ -15,6 +15,18 @@ npm run docs:dev
 npm run docs:build
 ```
 
+## Essay comments (Utterances)
+
+Essay pages load a public comment box via [Utterances](https://utteranc.es/) (GitHub Issues).
+
+**One-time setup (repo owner):**
+
+1. Open https://github.com/apps/utterances  
+2. Install for `zhangtong0812/zhangtong0812.github.io` (or all repos)  
+3. Optional: create a GitHub label named `comment` on the repo  
+
+Readers comment with a GitHub account. Each essay path maps to one Issue.
+
 ## Essay formatting
 
 Layout rules for all essays: [`排版策略.md`](./排版策略.md)
