@@ -54,6 +54,14 @@ export default defineConfig({
             {
               text: 'Natural-Super-AI (NSA): Principles, Directionality, Forms, and Outlook',
               link: '/essays/26082902-natural-super-ai.en'
+            },
+            {
+              text: '宗教的本质：信息传播的结构性工具',
+              link: '/essays/26082903-religion-as-info-structure.zh'
+            },
+            {
+              text: 'The Nature of Religion: A Structural Tool for Information Transmission',
+              link: '/essays/26082903-religion-as-info-structure.en'
             }
           ]
         }
