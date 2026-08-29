@@ -48,11 +48,11 @@ export default defineConfig({
               link: '/essays/26082901-info-escape.en'
             },
             {
-              text: '超自然AI（NSA）：原理、必然性、形态与展望',
+              text: 'AI的终极形态：超自然AI（NSA）',
               link: '/essays/26082902-natural-super-ai.zh'
             },
             {
-              text: 'Natural-Super-AI (NSA): Principles, Directionality, Forms, and Outlook',
+              text: 'The Ultimate Form of AI: Natural-Super-AI (NSA)',
               link: '/essays/26082902-natural-super-ai.en'
             },
             {
