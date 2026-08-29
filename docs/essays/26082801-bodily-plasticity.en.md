@@ -7,7 +7,7 @@ lang: en
 
 Consciousness is not a solid object stored somewhere in the skull. It arises from the complex traffic of electrical signals among neurons—a process that keeps running and changing. The body, by contrast, is matter: cells and tissue, a physical vehicle. The two are different in kind.
 
-As hardware, the body can be repaired and renewed—tissue restored, organs replaced, materials reconstructed. With future engineering, extending bodily life looks plausible in principle—**engineering room in principle is not achievement today.** Consciousness does not sit still. Carried by ongoing neural activity, it keeps evolving and resists any fixed, freeze-frame form. Even if technology lengthened the life of the body, neural signals would still tend to drift over long spans of time. Memory, cognition, and self-understanding would keep being rewritten. Mountains and rivers look stable within a human lifetime; across geological ages they change. Technology may prolong the body. Whether a singular subjective self can enjoy true immortality is far less clear.
+As hardware, the body can be repaired and renewed—tissue restored, organs replaced, materials reconstructed. With future engineering, extending bodily life looks plausible in principle. Consciousness does not sit still. Carried by ongoing neural activity, it keeps evolving and resists any fixed, freeze-frame form. Even if technology lengthened the life of the body, neural signals would still tend to drift over long spans of time. Memory, cognition, and self-understanding would keep being rewritten. Mountains and rivers look stable within a human lifetime; across geological ages they change. Technology may prolong the body. Whether a singular subjective self can enjoy true immortality is far less clear.
 
 ---
 
@@ -37,11 +37,9 @@ Consciousness is largely a flowing process built after birth. Genes are a relati
 
 On this view, true immortality of consciousness faces at least two serious barriers.
 
-**First:** even if we could migrate a mind into a new body, we would still struggle to reproduce—fully and faithfully—the real, random, dynamic electrical life of the original neurons. Without that native randomness and motion, the result looks more like a static imitation than the original self. A high-fidelity backup is at most a runnable imitation or branch; if the continuum of experience breaks, the label “still me” does not hold automatically.
+**First:** even if we could migrate a mind into a new body, we would still struggle to reproduce—fully and faithfully—the real, random, dynamic electrical life of the original neurons. Without that native randomness and motion, the result looks more like a static imitation than the original self.
 
-**Second:** a body may last a long time under technical care, but the brain is biological media, not a silicon chip that stores clean zeros and ones. There is no perfectly stable vault for memory. What we remember and how we know ourselves rest on fragile synaptic states that wear, fade, and rebuild. Keep a body alive for millions of years, and ancient memories will blur; older patterns of thought and self-understanding may be heavily rewritten—when neither the person nor observers can still claim the “then-self” and “now-self” as one continuous subject, that is a **phased death of consciousness**.
-
-Under ordinary metabolism, enough overlapping memory and narrative can sustain practical identity claims; that is not the same as a one-shot move onto a wholly new dynamic base, or narrative rewritten over geological spans.
+**Second:** a body may last a long time under technical care, but the brain is biological media, not a silicon chip that stores clean zeros and ones. There is no perfectly stable vault for memory. What we remember and how we know ourselves rest on fragile synaptic states that wear, fade, and rebuild. Keep a body alive for millions of years, and ancient memories will blur; older patterns of thought and self-understanding may be heavily rewritten. The subjective self of that earlier stage may die—a phased death of consciousness.
 
 In short:
 

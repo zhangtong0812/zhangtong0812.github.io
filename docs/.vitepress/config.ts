@@ -48,11 +48,11 @@ export default defineConfig({
               link: '/essays/26082901-info-escape.en'
             },
             {
-              text: '超自然AI（NSA）：方向性、形态与边界',
+              text: '超自然AI（NSA）：原理、必然性、形态与展望',
               link: '/essays/26082902-natural-super-ai.zh'
             },
             {
-              text: 'Natural-Super-AI (NSA): Directionality, Forms, and Bounds',
+              text: 'Natural-Super-AI (NSA): Principles, Directionality, Forms, and Outlook',
               link: '/essays/26082902-natural-super-ai.en'
             },
             {
