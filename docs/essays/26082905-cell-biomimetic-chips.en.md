@@ -25,7 +25,7 @@ Electron transport and ATP synthase on the inner mitochondrial membrane turn che
 
 ### DNA and Proteins: Nearby Storage and Execution
 
-Genetic information resides mainly in DNA (and RNA); much execution is done by proteins. This is not in-memory compute in the chip sense, yet transcription, translation, and metabolism occur nearby in the same cell; rates of reading and synthesis are jointly constrained by energy supply, substrates, and spatial position. The inspiration: **shortening the physical distance from “fetch” to “execute” often lowers movement cost**—an analogy, not a claim that DNA equals SRAM.
+Genetic information resides mainly in DNA (and RNA); much execution is done by proteins. This is not in-memory compute in the chip sense, yet transcription, translation, and metabolism occur nearby in the same cell; rates of reading and synthesis are jointly constrained by energy supply, substrates, and spatial position. The inspiration: **shortening the physical distance from “fetch” to “execute” often lowers movement cost**—an analogy, **not a claim that DNA equals SRAM, nor an isomorphic mapping.**
 
 ### Cytoskeleton: Dynamic Support and Pathways
 
@@ -39,53 +39,64 @@ Damaged molecules are degraded and replaced; abnormal structures repaired or cle
 
 ## Four Directions for Chip Architecture Change
 
-The directions below roughly track the features above: features are sources of inspiration; directions are engineering options. Maturity varies; none is a finished end-state already “solved.”
+The directions below roughly track the features above: features are sources of inspiration; directions are engineering options. Maturity varies; none is a finished end-state already “solved.” Maturity tags below are coarse: **lab / early product or small deployment / vision**.
 
 ### From Memory–Compute Split to Compute-in/near-Memory
 
-Inspiration: cut long-haul data movement; bring compute nearer to where data live.
+Inspiration: cut long-haul data movement; bring compute nearer to where data live.  
+**Maturity:** mostly lab; some near-memory / specialized acceleration already in early product form.
 
-The core idea of compute-in/near-memory is to operate near or in place at the physical locus of stored data, lowering energy and latency from shuttling. Memristors, phase-change memory, and kindred devices are candidate paths—they may combine storage with some compute in one class of cell—but precision, endurance, yield, algorithms, and toolchains remain open engineering problems, not a finished standard answer.
+The core idea is to operate near or in place at the physical locus of stored data, lowering energy and latency from shuttling. Memristors, phase-change memory, and kindred devices are candidate paths—but precision, endurance, yield, algorithms, and toolchains remain open engineering problems.
 
 ### From Single Digital Logic to Multimodal Signals
 
-Inspiration: biological systems use chemical, electrical, mechanical, and other signal dimensions, coding via concentration, frequency, spatial pattern, and more.
+Inspiration: biological systems use chemical, electrical, mechanical, and other signal dimensions.  
+**Maturity:** analog and spiking schemes mostly lab and niche; mainstream remains digital.
 
-Chips have long leaned on binary digital logic—clear and reliable, yet with other ceilings on density and efficiency. Analog compute, spiking neural nets, multi-valued logic, and similar approaches try to raise effective processing density per resource; they bring noise sensitivity and design complexity—a trade-off, not a wholesale replacement of digital.
+Binary digital logic is clear and reliable, yet has other ceilings on density and efficiency. Analog compute, spiking nets, multi-valued logic try to raise effective density per resource; they bring noise sensitivity and design complexity—a trade-off, not a wholesale replacement of digital.
 
 ### From Static Architecture to Limited Dynamic Reconfiguration
 
-Inspiration: structure can adjust with task and energy budget.
+Inspiration: structure can adjust with task and energy budget.  
+**Maturity:** FPGAs and the like are products; fine-grained runtime self-reconfiguration is still largely research and vision.
 
-Future chips may remap interconnect and functional partitions at runtime to raise adaptability and average efficiency. Reconfiguration has overhead and reliability cost; realistic paths are more likely **bounded, verifiable dynamism** than arbitrarily morphing “living silicon.”
+Future chips may remap interconnect and partitions at runtime. Reconfiguration has overhead and reliability cost; realistic paths are more likely **bounded, verifiable dynamism** than arbitrarily morphing “living silicon.”
 
 ### From Pure External Maintenance to Built-in Fault Tolerance and Self-Repair
 
-Inspiration: ongoing maintenance lowers the lethality of single-point failure.
+Inspiration: ongoing maintenance lowers the lethality of single-point failure.  
+**Maturity:** redundancy, ECC, bypass are common in products; strong self-repair and long ops-free autonomy remain mostly vision.
 
-Online substitution of redundant units, automatic bypass of damaged paths, real-time parameter calibration, and the like can extend life and raise availability in harsher settings. That improves tolerance of ops burden and local faults; **it is not energy self-sufficiency or freedom from supply and heat sink**. Cells themselves depend on continual nutrient-and-waste “input–output.”
+Online substitution, automatic bypass, real-time calibration can extend life and raise availability. That improves tolerance of ops burden and local faults; **it is not energy self-sufficiency or freedom from supply and heat sink**. Cells themselves depend on continual nutrient-and-waste “input–output.”
 
 ---
 
 ## From Biomimetics to Going Beyond: Meaning and Bounds
 
-Cellular biomimetics is not simple copying of cell morphology. It is replaying, on silicon (and other engineered materials), several strategies already filtered by nature: bring storage, processing, and energy management spatially nearer in pursuit of higher efficiency and density.
+Cellular biomimetics is not simple copying of cell morphology. It is replaying, on silicon and other engineered materials, several strategies already filtered by nature: bring storage, processing, and energy management spatially nearer in pursuit of higher efficiency and density.
 
 Possible implications include:
 
-- **Easing the von Neumann data-movement bottleneck.** Under split architectures, energy often goes heavily into moving data; if near-/in-memory designs land, they may markedly cut energy cost on some workloads—magnitude depends on application and process, not a uniform orders-of-magnitude promise.
-- **Raising local autonomy and fault tolerance.** If dynamic remapping and self-repair mature, dependence on centralized ops and remote control can fall relatively; this is an engineering reliability issue, not a claim that “information acquires a will to persist.”
-- **Approaching biological energy scales—on comparable tasks.** A human brain at roughly twenty watts and a training farm at megawatt scale are not directly comparable in task or system boundary. The more useful question is whether biomimetic or near-brain architectures can drive joules per operation down under similar inference or sensing loads. Efficiency gains do not automatically yield biological intelligence; architecture, learning, embodiment, and randomness remain another layer. If one speaks of “life-grade inference,” mark it as a long-horizon vision, not a near-term deliverable.
+- **Easing the von Neumann data-movement bottleneck**—magnitude depends on workload and process, not a uniform orders-of-magnitude promise.
+- **Raising local autonomy and fault tolerance**—an engineering reliability issue.
+- **Lowering joules per operation on comparable tasks.** A ~20 W brain and a megawatt training farm are not directly comparable. **Efficiency gains are not biological intelligence.**
 
-The aim is not to build a “silicon cell,” but an information-processing system that, on proximity of memory and compute, dynamic remapping, and fault-tolerant maintenance, **both borrows cellular strategies and tries to exceed carbon’s physical limits.**
+The aim is not a “silicon cell,” but a system that both borrows cellular strategies and tries to exceed carbon’s physical limits on proximity of memory and compute, dynamic remapping, and fault-tolerant maintenance.
+
+---
+
+## Objections and Limits
+
+- **“Biomimetics yields biological intelligence”:** Not automatically; this essay is about architecture and efficiency hints, not sufficient conditions for consciousness or general intelligence.
+- **“Memristors already solved the von Neumann bottleneck”:** Not yet; devices and system integration still have large gaps.
+- **“Cells prove compute-in-memory is globally optimal”:** Cells are a feasible solution under carbon-chemical constraints, not a global optimum proof for every material and workload.
+- **“Self-repairing chips need no externals”:** Self-repair lowers ops burden; it does not cancel power, cooling, or material wear.
 
 ---
 
 ## Closing
 
-The cell is one mature organization left by long iteration in the carbon-chemical world. Isolation and gradients, membrane energy conversion, nearby storage and execution, a dynamic scaffold, and continual maintenance together supply design principles for the next stage of silicon chips—principles to compare against, not a paste-ready blueprint.
-
-Moving from memory–compute separation toward stronger proximity of storage and compute is not only a local optimization; it may also change how information is organized in hardware. When chips integrate state-keeping and arithmetic more tightly in layout, and carry verifiable fault tolerance with limited reconfiguration, efficiency, density, and autonomous ops capability may rise—that is a proposition in chips and computer architecture.
+The cell is one mature organization left by long iteration in the carbon-chemical world. It supplies design principles for the next stage of silicon chips—principles to compare against, not a paste-ready blueprint.
 
 This is not copying nature. It is extracting principles screened by constraint and placing them on materials and processes with different constraints. The end of cellular biomimetics should be a processor better fitted to engineering goals than a cell—not a silicon scale model of a cell.
 
