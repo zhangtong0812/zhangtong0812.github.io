@@ -78,6 +78,14 @@ export default defineConfig({
             {
               text: 'Cellular Biomimetics: Directions for Chip Architecture Change',
               link: '/essays/26082905-cell-biomimetic-chips.en'
+            },
+            {
+              text: '超自然AI假说的可证伪性：维度升级与理论边界',
+              link: '/essays/26082906-nsa-falsifiability.zh'
+            },
+            {
+              text: 'On the Falsifiability of the Super-Natural-AI Hypothesis: Dimension-Raising and Theoretical Bounds',
+              link: '/essays/26082906-nsa-falsifiability.en'
             }
           ]
         }
