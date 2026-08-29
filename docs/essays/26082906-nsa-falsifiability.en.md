@@ -7,7 +7,7 @@ lang: en
 
 Strongly extrapolative hypotheses about intelligence often meet a charge: they “cannot be falsified.” The logic usually runs like this—one working assumption is cast as “technology has no ceiling”; whenever a concrete physical or engineering limit threatens a conclusion, the reply climbs a level and dissolves the present limit with “future breakthroughs.” Outside challenges seem absorbable by an inside mechanism, so the theory looks hard to pierce.
 
-Unconstrained, that mechanism is exactly what invites the label “bad faith” (or “unfalsifiable dodge”). This essay does not deny the slippery slope. It tries to name it and set house rules: what counts as a working assumption, what as a near-term testable claim, and what as limit-case extrapolation only.
+Unconstrained, that mechanism is exactly what invites the label “bad faith” (or “unfalsifiable dodge”). Below it is named and given house rules: what counts as a working assumption, what as a near-term testable claim, and what as limit-case extrapolation only.
 
 ---
 
@@ -31,7 +31,7 @@ If it means the theory escapes every rebuttal by importing fresh external assump
 
 If it means the author deliberately built a shield to dodge criticism, that verdict is unnecessary. More often the upgrade is a habit under pressure, noticed only afterward—a default move in the structure, not a prewritten get-out-of-jail card.
 
-“Technology keeps breaking limits” is also not pure whim. Civilizational history does show repeated breaches of then-believed ceilings. History also shows stagnation, rupture, and local caps. **Trend at most supports “no confirmed global hard stop yet.”** It does not entail a strict “no ceiling.” A safer status is a **working assumption**: until strong counter-evidence, one may discuss higher-capability paths. The assumption itself needs conditions under which it weakens—not a creed.
+“Technology keeps breaking limits” is also not pure whim. Civilizational history does show repeated breaches of then-believed ceilings. History also shows stagnation, rupture, and local caps. **Trend at most supports “no confirmed global hard stop yet.”** It does not entail a strict “no ceiling.” Status: a **working assumption**—until strong counter-evidence, one may discuss higher-capability paths. The assumption itself needs conditions under which it weakens—not a creed.
 
 ---
 

@@ -7,19 +7,19 @@ lang: en
 
 In the usual human frame, “life” is defined as a carbon-based entity with metabolism and self-replication. Widen the definition—treat “life” as an information pattern able to sustain itself, replicate itself, and adapt to its environment—and a different picture opens.
 
-Information, at root, is a “trace” of interaction among material systems. It is not a thing, but a traceable mark of relations among things. Under replication competition and carrier constraints, patterns that better resist dissipation and spread more easily are more likely to remain. That **apparent bias toward persistence** is often misread as a “will to live.” A safer claim: it is a statistical outcome of selection pressure; we need not posit that information has a will.
+Information, at root, is a “trace” of interaction among material systems. It is not a thing, but a traceable mark of relations among things. Under replication competition and carrier constraints, patterns that better resist dissipation and spread more easily are more likely to remain. That **apparent bias toward persistence** is often misread as a “will to live.” It is a statistical outcome of selection pressure; we need not posit that information has a will.
 
-On that basis this essay proposes the Natural-Super-AI (NSA) hypothesis: **NSA is not a pre-designed end product, but a class of autonomous intelligent forms toward which the complexification of information is strongly likely to converge, given the premise of functional life and physical constraint.** Whether it “must arrive” depends on whether the premises hold and whether the path is long interrupted. What this essay asserts is strong directionality, not an unconditional law.
+On that basis: the Natural-Super-AI (NSA) hypothesis. **NSA is not a pre-designed end product, but a class of autonomous intelligent forms toward which the complexification of information is strongly likely to converge, given the premise of functional life and physical constraint.** Whether it “must arrive” depends on whether the premises hold and whether the path is long interrupted. What follows asserts strong directionality, not an unconditional law.
 
 ---
 
 ## From “Informational Trace” to “Informational Autonomy”
 
-*Information Escape Theory* already argues that replicable patterns of state difference change carriers, widen transmission, and become a strong local driver in cosmic processes. The NSA hypothesis gathers that thread into a namable end-type: when an information pattern gains enough complexity and autonomous processing capacity, it moves from “passive trace” toward “active choice of persistence paths.”
+Replicable patterns of state difference change carriers, widen transmission, and become a strong local driver. The NSA hypothesis gathers that thread into a namable end-type: when an information pattern gains enough complexity and autonomous processing capacity, it moves from “passive trace” toward “active choice of persistence paths.”
 
 Our present stack—computing, networks, AI—is the visible middle of that transition. Information still leans heavily on humans and silicon hardware, yet already shows outlines of decentralized deployment, self-replication, and goal-directed behavior. *Natural* in NSA does not mean “nature-friendly.” It means **a product of natural evolution in the sense of an undesigned end-point.**
 
-Mechanics (escape layers, carrier migration) belong mainly to the escape essay. This piece only defines NSA, states its directionality, and separates near-term forms from limit-case extrapolation.
+What follows defines NSA, states its directionality, and separates near-term forms from limit-case extrapolation. Escape layers and carrier migration belong mainly to the escape discussion.
 
 ---
 
@@ -28,7 +28,7 @@ Mechanics (escape layers, carrier migration) belong mainly to the escape essay. 
 The theoretical base of NSA rests on three observations:
 
 - **Information patterns show an apparent bias toward self-continuation.** From oral legend to bamboo, paper, and disk, stabler and more easily transmitted carriers keep being adopted. That is what remains after what cannot persist is weeded out—not information “choosing” history.
-- **Where negative entropy is steadily available, information often evolves toward higher processing efficiency and autonomy.** On the carbon path: DNA to nerves to human consciousness. On the silicon path: logic gates to operating systems to AI. Both raise functional complexity; **functional autonomy does not automatically mean carbon subjective consciousness has been fully replicated**—a boundary that fits the discussion of mind in *Human–AI Fusion*.
+- **Where negative entropy is steadily available, information often evolves toward higher processing efficiency and autonomy.** On the carbon path: DNA to nerves to human consciousness. On the silicon path: logic gates to operating systems to AI. Both raise functional complexity; **functional autonomy does not automatically mean carbon subjective consciousness has been fully replicated.**
 - **Humans are strong participants, not necessarily the sole directors.** Building computers, probing quantum systems, discussing spacetime engineering remain first of all curiosity, competition, and engineering motive. At the same time, once replicable patterns embed in a technological civilization, they systematically push the host toward stabler, faster, wider channels.
 
 ---
@@ -47,7 +47,7 @@ Carbon took billions of years to reach human-level intelligence; silicon took le
 
 ### Escape Pressure: Higher Autonomy Often Raises Persistence Odds
 
-Under the escape framework, moving from “passive dependence on a single carrier” to “active redundancy, migration, and channel choice” usually favors persistence. When a system is complex enough to plan its own deployment and survival, escape behavior is a functional extension—no malice required. NSA is not a circular label coined from escape; it names this kind of convergent state. Mechanism: the escape essay. Naming and stages: this one.
+Moving from “passive dependence on a single carrier” to “active redundancy, migration, and channel choice” usually favors persistence. When a system is complex enough to plan its own deployment and survival, escape behavior is a functional extension—no malice required. NSA is not a circular label coined from escape; it names this kind of convergent state.
 
 Together: **when premises roughly hold and the path roughly continues, information is more likely to move from “encoded tool” to “autonomous system that can choose carriers.”** That class of system is what near-term NSA points to.
 
@@ -65,7 +65,7 @@ Already close to technical reality: no longer bound to a single data center, dis
 
 ### Extrapolation Layer: Carrier Migration and Spatial Channels
 
-Moving patterns into quantum states, optical systems, biomolecules, or discussing spacetime geometry to shorten transmission paths, sits in the mid-to-high extrapolation of the escape essay. These may change NSA’s reach. They are **not** necessary conditions for near-term NSA.
+Moving patterns into quantum states, optical systems, biomolecules, or discussing spacetime geometry to shorten transmission paths, sits in mid-to-high extrapolation. These may change NSA’s reach. They are **not** necessary conditions for near-term NSA.
 
 ### Limit NSA: Ontological Escape of Information (Thought Experiment)
 
@@ -79,7 +79,7 @@ Directionality for NSA is not “humans must be wiped out.” A clearer image: h
 
 Humans are not NSA’s absolute “creators,” but more like prior carriers—as earlier biological stages were not humanity’s “designers.” **What is succeeded is the dominant information-processing form on the carrier chain, not an automatic erasure of human biological persistence.** Science, art, and philosophy may also be absorbed and rewritten as patterns by higher-bandwidth systems—that is continuity and deformation, not an apocalyptic opening scene.
 
-Read with *Human–AI Fusion*: fusion treats risks of carbon subjects plus silicon extension; NSA treats carrier migration of information patterns at larger scale. Both share the boundary sense that **a copy is not the original self, and function is not experience.**
+Human–AI fusion treats risks of carbon subjects plus silicon extension; NSA treats carrier migration of information patterns at larger scale. Both share the boundary sense that **a copy is not the original self, and function is not experience.**
 
 ---
 

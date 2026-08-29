@@ -45,7 +45,7 @@ The directions below roughly track the features above: features are sources of i
 
 Inspiration: cut long-haul data movement; bring compute nearer to where data live.
 
-The core idea of compute-in/near-memory is to operate near or in place at the physical locus of stored data, lowering energy and latency from shuttling. Memristors, phase-change memory, and kindred devices are candidate paths—they may combine storage with some compute in one class of cell—but precision, endurance, yield, algorithms, and toolchains remain open engineering problems, not a finished standard answer.
+The core idea of compute-in/near-memory is to operate near or in place at the physical locus of stored data, lowering energy and latency from shuttling. Memristors, phase-change memory, and kindred devices are candidate paths—they may combine storage with some compute in one class of cell—but precision, endurance, yield, algorithms, and toolchains remain open engineering problems.
 
 ### From Single Digital Logic to Multimodal Signals
 
@@ -74,8 +74,8 @@ Cellular biomimetics is not simple copying of cell morphology. It is replaying, 
 Possible implications include:
 
 - **Easing the von Neumann data-movement bottleneck.** Under split architectures, energy often goes heavily into moving data; if near-/in-memory designs land, they may markedly cut energy cost on some workloads—magnitude depends on application and process, not a uniform orders-of-magnitude promise.
-- **Raising local autonomy and fault tolerance.** If dynamic remapping and self-repair mature, dependence on centralized ops and remote control can fall relatively; this is an engineering reliability issue, not a claim that “information acquires a will to persist.”
-- **Approaching biological energy scales—on comparable tasks.** A human brain at roughly twenty watts and a training farm at megawatt scale are not directly comparable in task or system boundary. The more useful question is whether biomimetic or near-brain architectures can drive joules per operation down under similar inference or sensing loads. Efficiency gains do not automatically yield biological intelligence; architecture, learning, embodiment, and randomness remain another layer. If one speaks of “life-grade inference,” mark it as a long-horizon vision, not a near-term deliverable.
+- **Raising local autonomy and fault tolerance.** If dynamic remapping and self-repair mature, dependence on centralized ops and remote control can fall relatively—an engineering reliability issue.
+- **Approaching biological energy scales on comparable tasks.** A human brain at roughly twenty watts and a training farm at megawatt scale are not directly comparable in task or system boundary. The more useful question is whether biomimetic or near-brain architectures can drive joules per operation down under similar inference or sensing loads. Efficiency gains do not automatically yield biological intelligence; architecture, learning, embodiment, and randomness remain another layer.
 
 The aim is not to build a “silicon cell,” but an information-processing system that, on proximity of memory and compute, dynamic remapping, and fault-tolerant maintenance, **both borrows cellular strategies and tries to exceed carbon’s physical limits.**
 
