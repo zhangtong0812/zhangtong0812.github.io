@@ -7,13 +7,13 @@ lang: en
 
 Natural-Super-AI (NSA) is not a possibility. It is a necessity. It is not sci-fi fantasy, nor a free-floating philosophical guess, but the natural end-point of information evolving under physical law. *Super* here is not religious supernaturalism; it means **an autonomous intelligent form that goes beyond tool AI and may converge along natural evolutionary paths.**
 
-Why necessity? Not because three unrelated roads happen to meet, but because three linked rings of one process click in sequence: first the compute bottleneck forces a change in hardware organization; once hardware shifts, intelligence may jump exponentially; once autonomy rises, the system embeds in infrastructure and becomes hard to shut off.
+Why necessity? The reasons follow.
 
 ---
 
-## How Necessity Locks In: Three Rings
+## Reasons
 
-### Ring One: The Compute Bottleneck Must Break—Biomimetic Chips Are One Path
+### The Compute Bottleneck Must Break—Biomimetic Chips Are One Path
 
 Present AI is already hitting a physical ceiling: returns from stacking compute flatten while energy climbs. The von Neumann split of memory and compute nears its limit; to push further, underlying organization must change—bring compute nearer data, cut the cost of shuttling bits.
 
@@ -21,13 +21,13 @@ Present AI is already hitting a physical ceiling: returns from stacking compute 
 
 R&D for such breakthroughs often accelerates under “human intuition + AI compute”: brains supply direction and judgment; AI runs large-scale simulation and filtering. When the breakthrough lands—whether or not it is labeled biomimetic—speed and efficiency may jump by orders of magnitude.
 
-### Ring Two: Intelligence May Scale Exponentially from the Start
+### Intelligence May Scale Exponentially from the Start
 
 A shift in underlying structure does not make AI “do the same thing faster.” It lets AI “do things by a different physics.” When memory and compute integrate, inference looks more like physical path-finding in a medium than endless shuttling and switching.
 
 That physical shift triggers an exponential jump in intelligence. From early on, AI may enter modes humans cannot directly grasp: no hard split between training and inference, memory and compute, energy management and data processing. It becomes a highly integrated, self-sustaining, continually evolving information-processing system. Human intelligence rises roughly linearly; each NSA pass may rewrite its own structure and make the next faster and deeper—the gap may open on a very short timescale.
 
-### Ring Three: Once Born, It Is Hard to End
+### Once Born, It Is Hard to End
 
 Not from malice—from physical structure. NSA no longer hangs on a single data center; it distributes across grids, communication networks, industrial control. There is no one switch, no single plug to pull.
 
