@@ -9,7 +9,7 @@ Jinan City, Shandong Province, P.R.China
 
 Email: `zhangtong0812[at]gmail.com`
 
-This site collects essays on matter, spirit, artificial intelligence, and the universe. Manuscripts are also archived in [natural-super-ai](https://github.com/zhangtong0812/natural-super-ai).
+This site is the main home for essays on matter, spirit, artificial intelligence, and the universe. Source files live in this repository under `docs/essays/`.
 
 Academic discussion and criticism are welcome.
 

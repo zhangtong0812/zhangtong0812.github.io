@@ -15,7 +15,7 @@ export default defineConfig({
       { text: 'About', link: '/about' },
       {
         text: 'GitHub',
-        link: 'https://github.com/zhangtong0812/natural-super-ai'
+        link: 'https://github.com/zhangtong0812/zhangtong0812.github.io'
       }
     ],
     sidebar: {
